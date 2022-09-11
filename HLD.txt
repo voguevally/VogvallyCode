@@ -1,0 +1,8 @@
+MOM - 09/10/2022
+Requirement:
+	Home
+	Theme upload functionality.
+	Products  -- Upload functionality
+	Orders    -- Insert Functionality
+	Customers -- Insert Functionality
+	Analytics -- Visualization.
